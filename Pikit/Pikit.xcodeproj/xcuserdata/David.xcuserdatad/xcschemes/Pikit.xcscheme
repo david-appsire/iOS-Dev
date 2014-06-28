@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "63779B9E19478E0A0019E1EB"
+               BlueprintIdentifier = "63525603195F06ED0023E4B1"
                BuildableName = "Pikit.app"
                BlueprintName = "Pikit"
                ReferencedContainer = "container:Pikit.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "63779BB919478E0A0019E1EB"
+               BlueprintIdentifier = "6352561E195F06ED0023E4B1"
                BuildableName = "PikitTests.xctest"
                BlueprintName = "PikitTests"
                ReferencedContainer = "container:Pikit.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "63779B9E19478E0A0019E1EB"
+            BlueprintIdentifier = "63525603195F06ED0023E4B1"
             BuildableName = "Pikit.app"
             BlueprintName = "Pikit"
             ReferencedContainer = "container:Pikit.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "63779B9E19478E0A0019E1EB"
+            BlueprintIdentifier = "63525603195F06ED0023E4B1"
             BuildableName = "Pikit.app"
             BlueprintName = "Pikit"
             ReferencedContainer = "container:Pikit.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "63779B9E19478E0A0019E1EB"
+            BlueprintIdentifier = "63525603195F06ED0023E4B1"
             BuildableName = "Pikit.app"
             BlueprintName = "Pikit"
             ReferencedContainer = "container:Pikit.xcodeproj">

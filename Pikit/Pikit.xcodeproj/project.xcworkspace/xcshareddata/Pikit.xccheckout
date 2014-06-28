@@ -5,31 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>719C8597-92AA-4DC6-8847-FF5A64D71A17</string>
+	<string>8A35250F-62B9-4EC7-91AC-B0AD8FC86F1F</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Pikit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B285C167-7FFF-4E85-988C-98A66376B6AB</key>
+		<string>https://github.com/david-appsire/iOS-Dev.git</string>
+	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Pikit.xcodeproj/project.xcworkspace</string>
+	<string>Pikit/Pikit.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>7DAD5F2E-BF70-4FEA-98BA-10651AF50652</key>
-		<string>../..</string>
+		<key>B285C167-7FFF-4E85-988C-98A66376B6AB</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/david-appsire/iOS-Dev.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7DAD5F2E-BF70-4FEA-98BA-10651AF50652</string>
+	<string>B285C167-7FFF-4E85-988C-98A66376B6AB</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>7DAD5F2E-BF70-4FEA-98BA-10651AF50652</string>
+			<string>B285C167-7FFF-4E85-988C-98A66376B6AB</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Pikit</string>
+			<string>iOS Dev</string>
 		</dict>
 	</array>
 </dict>
